@@ -57,7 +57,9 @@ def monopoly_with_fourth_tier
 	   },
       
       :pennsylvania_railroad =>
-      {"mortgage value"= "200"},
+      {"mortgage value"= "200"
+        
+      },
       
       :b_and_o_railroad =>{
         "mortgage value"= "400"
@@ -68,7 +70,6 @@ def monopoly_with_fourth_tier
         "mortgage value"= "800"
         
       }
-	   }
 	}
 	}
 end
